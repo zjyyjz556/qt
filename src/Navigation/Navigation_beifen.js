@@ -1,7 +1,7 @@
 import React from 'react';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { NavigationContainer } from '@react-navigation/native';
-import HomeScreen from '../page/HomeScreen_bifen'
+import HomeScreen from '../page/HomeScreen_beifen'
 import ProfileScreen from '../page/ProfileScreen_beifen'
 import DatingAppHome from '../page/CeShi'
 
